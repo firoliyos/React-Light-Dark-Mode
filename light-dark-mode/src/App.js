@@ -1,8 +1,10 @@
+import LightDarkMode from "./components";
+
 
 function App() {
   return (
     <div className="App">
-      Hello
+      <LightDarkMode />
     </div>
   );
 }
