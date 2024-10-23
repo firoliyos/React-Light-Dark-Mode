@@ -5,7 +5,7 @@ export default function LightDarkMode() {
     return(
         <div className="light-dark-mode">
             <div className="container">
-                Hello
+                <p>Hello World</p>
             </div>
         </div>
     )
